@@ -97,7 +97,7 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(205, 204);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(109, 25);
+            this.button1.Size = new System.Drawing.Size(90, 25);
             this.button1.TabIndex = 4;
             this.button1.Text = "Cộng";
             this.button1.UseVisualStyleBackColor = true;
@@ -108,7 +108,7 @@
             this.btTru.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTru.Location = new System.Drawing.Point(76, 204);
             this.btTru.Name = "btTru";
-            this.btTru.Size = new System.Drawing.Size(109, 25);
+            this.btTru.Size = new System.Drawing.Size(94, 25);
             this.btTru.TabIndex = 4;
             this.btTru.Text = "Trừ";
             this.btTru.UseVisualStyleBackColor = true;
